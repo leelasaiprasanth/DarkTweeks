@@ -78,7 +78,7 @@ $Logo                     = New-Object system.Windows.Forms.PictureBox
 $Logo.Width               = 325
 $Logo.Height              = 75
 $Logo.location            = New-Object System.Drawing.Point(950,-11)
-$Logo.imageLocation       = "D:\Academics\IDLE_Coding\Shell\DarkTweeks/Bleev_logo.png"
+$Logo.imageLocation       = "https://raw.githubusercontent.com/leelasaiprasanth/DarkTweeks/main/Bleev_logo.png"
 $Logo.SizeMode            = [System.Windows.Forms.PictureBoxSizeMode]::zoom
 #$Logo.BackColor = "Pink"
 
