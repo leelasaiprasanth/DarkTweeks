@@ -1,0 +1,93 @@
+Warning Try not to mess up the things by just following the thigs,
+try to know about the process and adopt the trick to speed up the operating System
+                                                                  -leeb
+Cache Directories:
+ Using Run Command Type:-
+  %TEMP%  or  %temp%  C:\Users\AppData\Local\Temp
+  TEMP    or   temp   C:\Windows\Temp
+  prefetch            C:\Windows\Prefetch
+
+Software Distribution:
+Navigate to :
+            C:\Windows\SoftwareDistribution\Download
+
+Using Disk Clean-Up:
+open Disk clean-up
+        *Select the Operating Systems Drive (i.e, C:)
+        *Select all the items and press clean system files
+        *Select all the items and click clear
+
+Clearing System Restore Points and Creating a fresh point:
+  open create system restore point:
+        *click on configure
+        *select delete
+
+  create a System point
+        *click on create
+        *Name the Restore Point
+        *Hit create
+
+clearing File Explorer
+  *navigate to view tab
+  *click on clear in privacy Section
+
+
+Windows Store:
+  run CMD as an Administrator
+  Command:
+          WSReset.exe
+
+Internet Cache:
+  Clear the browsing date and all the History Data form all the browsers
+  -google chrome
+  -fire fox
+  -Internet Explorer
+  -Microsoft edge
+
+Flush DNS Cache
+Run CMD as an Administrator:
+  Command:
+        ipconfig /flushdns
+
+location Cache:
+open Location :
+  click clear on location History
+
+
+GPU Cache
+  NVIDIA
+    navigate to folder path
+              C:\Users\AppData\Local\NVIDIA Corporation\NV_Cache
+              C:\Users\AppData\Local\NVIDIA\GLCache
+              C:\Users\AppData\Local\Temp
+
+navigate to
+        Hidden ProgramData
+        navigate to folder path
+              C:\ProgramData\NVIDIA Corporation\NV_Cache
+              
+              
+Watch Star wars on cmd:
+telnet towel.blinkenlights.nl
+
+
+God Mode 
+* Create Folder and rename with the code
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+
+
+encrypt 
+
+cipher /e <path of folder
+
+
+decrypt 
+
+cipher /d <path of the folder
+
+ease permently
+cipher /w:<path of the folder>
+
+silde to shutdown
+C:\Windows\System32\SlideToShutDown.exe
